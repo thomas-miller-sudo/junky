@@ -39,10 +39,10 @@ Stateful Packet Filter
 
 UNIT QUIZ: Question 6
 Which of the following statements are true? (Select all that apply)
-An IDS deals with malicious traffic that the firewall missed.
+*An IDS deals with malicious traffic that the firewall missed.
 An IPS is on the boundary of the trusted inside and the untrusted outside.
 A network-based firewall protects hosts from malicious traffic originating on their same network.
-An IPS protects hosts from malicious traffic originating on their same network.
+*An IPS protects hosts from malicious traffic originating on their same network.
 
 UNIT QUIZ: Question 7
 Which of the following statements is true?
